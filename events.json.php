@@ -6,16 +6,16 @@
 			"title": "This is warning class event with very long title to check how it fits to evet in day view",
 			"url": "http://www.example.com/",
 			"class": "event-warning",
-			"start": "1362938400000",
-			"end":   "1363197686300"
+			"start": "1548183800000",
+			"end":   "154819380000"
 		},
 		{
 			"id": "256",
 			"title": "Event that ends on timeline",
 			"url": "http://www.example.com/",
 			"class": "event-warning",
-			"start": "1363155300000",
-			"end":   "1363227600000"
+			"start": "1548153000000",
+			"end":   "1548163800000"
 		},
 		{
 			"id": "276",

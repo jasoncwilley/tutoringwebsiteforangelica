@@ -513,3 +513,16 @@ a.cal-event-week {
 .badge-important {
   background-color: #b94a48;
 }
+  header {
+          height: 125px;
+        }
+        #top-menu-nav {
+          margin-left: 25px;
+          margin-top: 35px;
+        }
+        #home-button{
+          margin-left:200px;
+        }
+        #contact-button{
+          margin-right:125px;
+        }
